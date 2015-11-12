@@ -257,11 +257,11 @@ This is a great guide for those who prefer a fast-paced introduction to the Linu
 The list of awesome Linux applications that you should be using.
 
 ### Console-based Applications
-
 * [git](https://git-scm.com/) -  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 * [nano](http://www.nano-editor.org) - GNU nano (or nano) is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing. nano supports features including colorized syntax highlighting, DOS/Mac file type conversions, spellchecking and UTF-8 encoding. nano opened with an empty buffer typically occupies under 1.5 MB of resident memory.
 * [vim](http://vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Command-line tools like “top” make it difficult to see CPU usage across multi-process applications (like Apache and Chrome), spikes over time, and memory usage. Vtop is a free and open source activity monitor for the command line. It’s written in node.js and can be easily extended.
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - Backups, CloningCloud Computing, Cloud Storage, Code Review, Collaborative Software, Configuration Management Database, Configuration Management, Continuous Integration & Continuous Deployment, Distributed Filesystems, DNS, Hosting Control Panels, IMAP/POP3, IT Asset Management, LDAP, Log Management, Monitoring, Metric & Metric Collection, Network Configuration Management, Newsletter, NoSQL, Packaging, Queuing, RDBMS, Security, Service Discovery, SMTP, Software Containers, SSH, Statistics, Ticketing systems, Troubleshooting, Project Management, Version control, Virtualization, VPN, XMPP, Web, Webmails, Wikis
 
 ### GUI-based Applications
 
